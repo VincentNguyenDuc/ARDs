@@ -52,13 +52,13 @@ crash details of people who have died in an Australian road crash.
 - Pandas
 - Scikit
 - Matplotlib
+- Numpy
+- Sklearn
 
 ## Algorithms
 
 - Linear Regression
 - Polynomial Regression
-- Numpy
-- Sklearn
 
 ## Project Objectives
 
