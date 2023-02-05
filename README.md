@@ -50,10 +50,9 @@ crash details of people who have died in an Australian road crash.
 - Python
 - Jupyter Notebook
 - Pandas
-- Scikit
+- Scikit-learn
 - Matplotlib
 - Numpy
-- Sklearn
 
 ## Algorithms
 
@@ -62,6 +61,7 @@ crash details of people who have died in an Australian road crash.
 
 ## Project Objectives
 
+- Use numpy to fit linear regression to data
 - Explore and perform data analysis on the ARD dataset
 - Use various graphical and non-graphical tools to perform data exploration, data wrangling, and data analysis
 - Investigate crashes over different months for specific road user
