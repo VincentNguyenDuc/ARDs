@@ -186,8 +186,6 @@ class LegPoly:
         cosq = numpy.dot(legcoeff.T, numpy.dot(self.smooth, legcoeff))
         # lambda is posterior Gamma(alpha+order/2, beta + cosq/2)
         self.lmbda = numpy.random.gamma(1+self.order/2, 1.0/(self.beta+cosq/2))
-        # print "New lambda = "+str(self.lmbda)
-        # print "Mean lambda = "+str((2+self.order)/(2/self.beta+cosq))
 
 
 def demoReg1(nmpts):
