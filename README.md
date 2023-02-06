@@ -59,10 +59,11 @@ crash details of people who have died in an Australian road crash.
 
 - Linear Regression
 - Polynomial Regression
+- Pearson Correlation
 
 ## Project Objectives
 
-- Use numpy to fit linear regression to data
+- Use sklearn to fit linear regression to data
 - Explore and perform data analysis on the ARD dataset
 - Use various graphical and non-graphical tools to perform data exploration, data wrangling, and data analysis
 - Investigate crashes over different months for specific road user
